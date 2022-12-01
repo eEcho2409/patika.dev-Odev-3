@@ -1,0 +1,18 @@
+body{
+    background-color: bisque;
+}
+.malzemeler{
+    background-color: brown;
+    display: inline;   
+    border-radius: 25px;
+    color: aliceblue;
+}
+
+#baslık{
+    color:saddlebrown;
+}
+
+#afiyetOlsun{
+    text-align: right;
+
+}
